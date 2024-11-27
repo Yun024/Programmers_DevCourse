@@ -144,6 +144,9 @@ ex)회사정보, 비밀번호
 <br>
 
 ## 4. 레이아웃
+
+<img src = "https://github.com/user-attachments/assets/f5b8b25a-2825-4ab8-82d3-03dc6ac04a43" width ="500" height = "600"/><br>
+
 레이아웃 태그를 왜 알아야 할까?
 - HTML5부터 태그를 의미 있게 사용하기 위해 "Semantic(시멘틱)"태그를 사용하여 문서 구조를 작성
 - 단순한 의미 구분자인 ```<div>```를 남발하지 않고 적절한 태그를 사용하여 웹 문서가 담은 정보와 구조를 의미 있게 전달
