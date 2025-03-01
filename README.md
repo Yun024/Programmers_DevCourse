@@ -1,2 +1,25 @@
 # Programmers_DevCourse
-Learning Data Engineering
+**프로그래머스 데브코스 데이터 엔지니어링** 과정에서 배운 내용을 정리한 문서입니다. <br>
+기간: 2024.11.15 ~ 2025.03.20 <br>
+
+### 📖 **Blog:** [문과의 개발](https://9idryd.tistory.com/) 
+
+### 🛠 Collaboration Tools  
+- 📹 **Zoom**: 화상 회의  
+- 🏢 **ZEP**: 가상 오피스  
+- 📝 **Notion**: 문서 및 프로젝트 관리  
+- 💬 **Slack**: 팀 커뮤니케이션 
+
+### 📝 학습한 과목
+![image](https://github.com/user-attachments/assets/6d24f76e-dba4-4214-a8f2-5be9d69c68bc)
+
+### 📊 팀 프로젝트
+
+|번호|프로젝트명 |주제 |기간 |Github |
+|:---:|------------|------------------------------------------------------|-----------------|:--------------------------------:|
+|1| 크롤한 웹 데이터로 만들어보는 시각화 웹 서비스 | 웹 크롤링 기반 재료 맞춤형 레시피 <br> 추천 및 영양 정보 시각화 서비스 | 2024.12.02 ~ 2024.12.09 |[🔗](https://github.com/Yun024/recipe_finder)|
+|2| 데이터 웨어하우스를 이용한 대시보드 구성 | 알라딘 API를 이용한 데이터 <br> 파이프라인 구성 및 대시보드 시각화 | 2024.12.26 ~ 2024.01.10 |[🔗](https://github.com/Yun024/aladin-data-pipeline)|
+|3| End-to-end 데이터 파이프라인 구성하기 | 해외여행지 정보 제공 슬랙봇 | 2025.01.24 ~ 2025.02.06 |[🔗](https://github.com/Yun024/travel-slackbot)|
+
+
+
