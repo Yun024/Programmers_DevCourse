@@ -1,0 +1,12 @@
+*.crc
+*.pyc
+
+*.dat
+
+*.csv
+*.parquet
+*.json
+*.avro
+*.txt
+
+*_SUCCESS

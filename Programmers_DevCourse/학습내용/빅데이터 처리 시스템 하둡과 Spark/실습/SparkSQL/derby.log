@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Feb 19 01:46:10 KST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0195-19f3-ea9a-00000c348e58 
+on database directory C:\Users\Yeojun\Documents\GitHub\Programmers_DevCourse\학습내용\빅데이터 처리 시스템 하둡과 Spark\실습\SparkSQL\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@bebdb06 
+Loaded from file:/C:/Users/Yeojun/Spark/spark-3.5.3-bin-hadoop3/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.26+7-LTS-187
+user.dir=c:\Users\Yeojun\Documents\GitHub\Programmers_DevCourse\학습내용\빅데이터 처리 시스템 하둡과 Spark\실습\SparkSQL
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
